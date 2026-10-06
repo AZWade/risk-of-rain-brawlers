@@ -1,0 +1,14 @@
+{
+  "schemaVersion": 1,
+  "mode": "versus",
+  "format": "best_of_five",
+  "winsRequired": 3,
+  "livesPerRound": 1,
+  "eliminations": [
+    "health_depleted",
+    "ring_out"
+  ],
+  "knockbackScaling": "damage_increases_knockback",
+  "playerCount": 2,
+  "status": "design_only"
+}
