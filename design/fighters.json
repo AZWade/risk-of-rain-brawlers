@@ -1,0 +1,28 @@
+{
+  "schemaVersion": 1,
+  "prototype": "versus-duel",
+  "fighters": [
+    {
+      "id": "commando",
+      "sourceSurvivor": "Commando",
+      "weapon": "dual_pistols",
+      "archetype": "ranged",
+      "lightAttack": "rapid_shot",
+      "heavyAttack": "charged_burst",
+      "airAttack": "aerial_shot",
+      "dodge": "combat_roll",
+      "status": "design_only"
+    },
+    {
+      "id": "mercenary",
+      "sourceSurvivor": "Mercenary",
+      "weapon": "sword",
+      "archetype": "melee",
+      "lightAttack": "quick_slash",
+      "heavyAttack": "heavy_slash",
+      "airAttack": "aerial_slash",
+      "dodge": "evasive_dash",
+      "status": "design_only"
+    }
+  ]
+}
