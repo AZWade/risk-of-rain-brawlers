@@ -1,0 +1,7 @@
+{
+  "name": "RiskOfRainBrawlers",
+  "version_number": "0.0.1",
+  "website_url": "https://github.com/AZWade/risk-of-rain-brawlers",
+  "description": "Private development bootstrap for a versus-first arena brawler prototype.",
+  "dependencies": []
+}
