@@ -1,0 +1,12 @@
+{
+  "schemaVersion": 1,
+  "id": "prototype_platform",
+  "layout": "classic_platform_fighter",
+  "mainPlatformCount": 1,
+  "elevatedPlatformCount": 2,
+  "openSideEdges": true,
+  "lowerBlastZone": true,
+  "dimensions": null,
+  "spawnPoints": null,
+  "status": "design_only"
+}
